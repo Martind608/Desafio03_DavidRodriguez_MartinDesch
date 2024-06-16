@@ -1,6 +1,8 @@
 body {
     background-color: #E11364;
-    margin: 120px;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
 }
 
 h1 {
@@ -30,16 +32,37 @@ article {
     font-family: Arial, sans-serif;
     background-color: #FFFFFF;
     color: black;
-
+    border-radius: 10px;
 }
 
-button {
-    background-color: #126102;
+
+figure {
+    margin: 0;
+    padding: 0;
+}
+
+
+figure img {
+    width: 99%;
+}
+
+article p {
+    text-align: justify;
+    padding-right: 50px;
+    color: #000;
+    font-size: 12px;
+}
+
+article button {
+    background-color: #2C8F20;
     border: none;
     color: #FFFFFF;
     text-align: center;
     font-size: 17px;
-    padding: 16px;
+    padding: 12px;
     width: 130px;
-    margin-left: 45%;
+    margin: 20px auto 0 auto; /*aca centro el boton */
+    display: block;
+    border-radius: 5px;
+
 }
