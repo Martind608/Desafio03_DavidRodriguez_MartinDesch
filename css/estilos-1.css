@@ -1,6 +1,6 @@
 body {
     background-color: #E11364;
-    margin: 50px;
+    margin: 120px;
 }
 
 h1 {
@@ -32,6 +32,14 @@ article {
     color: black;
 
 }
-button{
-    
+
+button {
+    background-color: #126102;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 17px;
+    padding: 16px;
+    width: 130px;
+    margin-left: 45%;
 }
