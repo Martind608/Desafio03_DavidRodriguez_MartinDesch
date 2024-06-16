@@ -64,5 +64,10 @@ article button {
     margin: 20px auto 0 auto; /*aca centro el boton */
     display: block;
     border-radius: 5px;
+    cursor: pointer; 
+}
 
+article button:hover {
+    background-color:#BC105C ; 
+    color: #fff; 
 }
