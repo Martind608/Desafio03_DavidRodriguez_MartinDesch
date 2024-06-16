@@ -71,3 +71,13 @@ article button:hover {
     background-color:#BC105C ; 
     color: #fff; 
 }
+
+footer{
+    font-family: Arial, sans-serif;
+    background-color: #E96093;
+    color: #FFFFFF;
+    padding: 10px;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 5px;
+}
